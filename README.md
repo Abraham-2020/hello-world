@@ -1,3 +1,5 @@
 # hello-world
-no.1
-hi humans
+
+Hi Humans!
+Abraham here, I like Python and c.
+That's all.
